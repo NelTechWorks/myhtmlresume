@@ -1,0 +1,51 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #0f0e17;
+    color: #a7a9be;
+}
+
+span {
+    color: #ff8906;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+a {
+    color: #fffffe;
+    text-decoration: none;
+}
+
+.navdiv a {
+    margin: 20px;
+    font-size: 20px;
+}
+
+header{
+    color: #fffffe;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 800px;
+}
+
+p {
+    color: #a7a9be;
+}
+
+hr {
+    height: 5px;
+    background-color: #ff8906;
+}
+
+a:hover{
+    background-color: #ff8906;
+    transition: background-color 0.8s ease;
+    border-radius: 8px;
+}
