@@ -15,13 +15,13 @@ nav {
 }
 
 a {
-    color: #fffffe;
     text-decoration: none;
 }
 
 .navdiv a {
     margin: 16px;
     font-size: 18px;
+    color: #fffffe;
 }
 
 header{
